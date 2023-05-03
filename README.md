@@ -21,7 +21,7 @@ You need to [add](https://docs.github.com/actions/security-guides/encrypted-secr
 ### CommonJS
 
 If you want to publish config like [Prettier](https://prettier.io/docs/en/configuration.html#basic-configuration) or [ESLint](https://eslint.org/docs/latest/extend/shareable-configs), you may need to fix the default export.  
-Modify the `build` script in `package.json` and use [fix-tsup-cjs](https://github.com/u3u/fix-tsup-cjs) to fix the default export and type definition of `CommonJS`.
+Modify the `build` script in `package.json` and use [fix-tsup-cjs](https://github.com/u3u/fix-tsup-cjs) to fix the default export and type definition
 
 ```json
 {
