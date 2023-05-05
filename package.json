@@ -41,7 +41,7 @@
     "pre-commit": "npx lint-staged --concurrent false"
   },
   "lint-staged": {
-    "*.{js,cjs,ts}": [
+    "*.{js,cjs,mjs,jsx,ts,tsx,md}": [
       "eslint --fix"
     ],
     "*": [
