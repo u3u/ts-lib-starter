@@ -8,8 +8,8 @@ devDependencies:
     specifier: ^18.16.3
     version: 18.16.3
   '@u3u/eslint-config':
-    specifier: ^1.2.0
-    version: 1.2.0(eslint@8.39.0)(typescript@5.0.4)
+    specifier: ^1.2.1
+    version: 1.2.1(eslint@8.39.0)(typescript@5.0.4)
   '@u3u/prettier-config':
     specifier: ^1.0.5
     version: 1.0.5(prettier@2.8.8)
@@ -843,8 +843,8 @@ packages:
       eslint-visitor-keys: 3.4.0
     dev: true
 
-  /@u3u/eslint-config@1.2.0(eslint@8.39.0)(typescript@5.0.4):
-    resolution: {integrity: sha512-G3Uacpqv84K/b8rGy496vLm3SUPTVcxZD5Y7zQTiQ61Q3jyjloBvem2Da/I1fbCo0m5ns9wUVoLANRjUS7Z2mw==}
+  /@u3u/eslint-config@1.2.1(eslint@8.39.0)(typescript@5.0.4):
+    resolution: {integrity: sha512-R/7J6p5yVB6E5TJoQXx4eKycRYYeYH4hHyuhFmWDGbrya1JK/GPPe4ur1Hjuh3noTtvQFs4ekZI7wbgYKTf++w==}
     requiresBuild: true
     peerDependencies:
       eslint: ^8.39.0
@@ -1164,7 +1164,7 @@ packages:
     hasBin: true
     dependencies:
       caniuse-lite: 1.0.30001482
-      electron-to-chromium: 1.4.383
+      electron-to-chromium: 1.4.384
       node-releases: 2.0.10
       update-browserslist-db: 1.0.11(browserslist@4.21.5)
     dev: true
@@ -1559,8 +1559,8 @@ packages:
       sigmund: 1.0.1
     dev: true
 
-  /electron-to-chromium@1.4.383:
-    resolution: {integrity: sha512-BQyvFauIMzCJqILViJNs0kIBEAlx1bYLS5CRLyJtlun1KAnZlhNSgyfyWifPWagQ5s8KYPY6BpNHZsEMkxZAQQ==}
+  /electron-to-chromium@1.4.384:
+    resolution: {integrity: sha512-I97q0MmRAAqj53+a8vZsDkEXBZki+ehYAOPzwtQzALip52aEp2+BJqHFtTlsfjoqVZYwPpHC8wM6MbsSZQ/Eqw==}
     dev: true
 
   /ember-rfc176-data@0.3.18:
@@ -3902,8 +3902,8 @@ packages:
       glob: 7.2.3
     dev: true
 
-  /rollup@3.21.4:
-    resolution: {integrity: sha512-N5LxpvDolOm9ueiCp4NfB80omMDqb45ShtsQw2+OT3f11uJ197dv703NZvznYHP6RWR85wfxanXurXKG3ux2GQ==}
+  /rollup@3.21.5:
+    resolution: {integrity: sha512-a4NTKS4u9PusbUJcfF4IMxuqjFzjm6ifj76P54a7cKnvVzJaG12BLVR+hgU2YDGHzyMMQNxLAZWuALsn8q2oQg==}
     engines: {node: '>=14.18.0', npm: '>=8.0.0'}
     hasBin: true
     optionalDependencies:
@@ -4391,7 +4391,7 @@ packages:
       postcss: 8.4.23
       postcss-load-config: 3.1.4(postcss@8.4.23)
       resolve-from: 5.0.0
-      rollup: 3.21.4
+      rollup: 3.21.5
       source-map: 0.8.0-beta.0
       sucrase: 3.32.0
       tree-kill: 1.2.2
