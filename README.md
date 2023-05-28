@@ -11,6 +11,7 @@
 
 - Package manager [pnpm](https://pnpm.io/), fast and awesome!
 - Bundle with [tsup](https://github.com/egoist/tsup), supports both `cjs` and `esm` formats at the same time
+- Test with [vitest](https://vitest.dev/)
 - Use the `link:` symlink to oneself for testing
 - Use GitHub [action](./.github/workflows/release.yaml) to [generate changelog](https://github.com/antfu/changelogithub) and automatically publish to NPM
 
