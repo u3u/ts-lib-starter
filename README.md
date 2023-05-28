@@ -1,6 +1,6 @@
 # my-ts-lib
 
-[![npm version](https://badgen.net/npm/v/my-ts-lib)](https://npm.im/my-ts-lib) [![npm downloads](https://badgen.net/npm/dm/my-ts-lib)](https://npm.im/my-ts-lib)
+[![npm version](https://badgen.net/npm/v/my-ts-lib)](https://npm.im/my-ts-lib) [![npm downloads](https://badgen.net/npm/dm/my-ts-lib)](https://npm.im/my-ts-lib) [![codecov](https://codecov.io/gh/u3u/ts-lib-starter/branch/main/graph/badge.svg?token=F5RRJIXdfJ)](https://codecov.io/gh/u3u/ts-lib-starter)
 
 ## Using this template
 
