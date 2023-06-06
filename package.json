@@ -54,8 +54,8 @@
     "@types/node": "^18.16.16",
     "@u3u/eslint-config": "^2.2.3",
     "@u3u/prettier-config": "^2.0.0",
-    "@vitest/coverage-c8": "^0.31.1",
-    "@vitest/ui": "^0.31.1",
+    "@vitest/coverage-c8": "^0.32.0",
+    "@vitest/ui": "^0.32.0",
     "eslint": "^8.41.0",
     "lint-staged": "^13.2.2",
     "my-ts-lib": "link:",
@@ -63,7 +63,7 @@
     "simple-git-hooks": "^2.8.1",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4",
-    "vitest": "^0.31.1"
+    "vitest": "^0.32.0"
   },
   "packageManager": "pnpm@8.6.0",
   "publishConfig": {
