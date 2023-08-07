@@ -7,5 +7,6 @@
     "resolveJsonModule": true,
     "target": "esnext"
   },
+
   "extends": "@tsconfig/node18/tsconfig.json"
 }
