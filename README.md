@@ -1,10 +1,10 @@
-# my-ts-lib
+# pkg-name
 
-[![npm version](https://badgen.net/npm/v/my-ts-lib)](https://npm.im/my-ts-lib) [![npm downloads](https://badgen.net/npm/dm/my-ts-lib)](https://npm.im/my-ts-lib) [![codecov](https://codecov.io/gh/u3u/ts-lib-starter/branch/main/graph/badge.svg)](https://codecov.io/gh/u3u/ts-lib-starter)
+[![npm version](https://badgen.net/npm/v/pkg-name)](https://npm.im/pkg-name) [![npm downloads](https://badgen.net/npm/dm/pkg-name)](https://npm.im/pkg-name) [![codecov](https://codecov.io/gh/u3u/pkg-name/graph/badge.svg)](https://codecov.io/gh/u3u/pkg-name)
 
 ## Using this template
 
-- Search `my-ts-lib` and replace it with your custom package name.
+- Search `pkg-name` and replace it with your custom package name.
 - Search `u3u` and replace it with your name.
 
 ### Features
@@ -35,7 +35,7 @@ Modify the `build` script in `package.json` and use [fix-tsup-cjs](https://githu
 ## Install
 
 ```sh
-pnpm add my-ts-lib
+pnpm add pkg-name
 ```
 
 ## License

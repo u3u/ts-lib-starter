@@ -29,7 +29,7 @@ devDependencies:
   lint-staged:
     specifier: ^13.2.3
     version: 13.2.3
-  my-ts-lib:
+  pkg-name:
     specifier: 'link:'
     version: 'link:'
   prettier:
