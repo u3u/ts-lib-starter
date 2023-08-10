@@ -2,6 +2,7 @@
   "compilerOptions": {
     "allowJs": true,
     "forceConsistentCasingInFileNames": true,
+    "module": "es2022",
     "noEmit": true,
     "resolveJsonModule": true,
     "strict": true
