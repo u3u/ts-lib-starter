@@ -73,7 +73,7 @@
     "@vitest/ui": "^0.34.6",
     "bumpp": "^9.2.0",
     "dedent": "^1.5.1",
-    "eslint": "^8.52.0",
+    "eslint": "^8.53.0",
     "lint-staged": "^14.0.1",
     "pkg-name": "link:",
     "prettier": "^3.0.3",
