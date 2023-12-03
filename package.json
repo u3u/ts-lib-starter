@@ -74,7 +74,7 @@
     "bumpp": "^9.2.0",
     "dedent": "^1.5.1",
     "eslint": "^8.54.0",
-    "lint-staged": "^14.0.1",
+    "lint-staged": "^15.2.0",
     "pkg-name": "link:",
     "prettier": "^3.1.0",
     "simple-git-hooks": "^2.9.0",
