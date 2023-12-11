@@ -46,7 +46,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsup",
+    "build": "tsup && fix-tsup-cjs",
     "format": "prettier --write .",
     "lint": "eslint --fix .",
     "prepare": "pnpm build",
@@ -69,18 +69,19 @@
     "@types/node": "^20.10.4",
     "@u3u/eslint-config": "^2.14.1",
     "@u3u/prettier-config": "^4.1.4",
-    "@vitest/coverage-v8": "^1.0.3",
-    "@vitest/ui": "^1.0.3",
-    "bumpp": "^9.2.0",
+    "@vitest/coverage-v8": "^1.0.4",
+    "@vitest/ui": "^1.0.4",
+    "bumpp": "^9.2.1",
     "dedent": "^1.5.1",
     "eslint": "^8.55.0",
+    "fix-tsup-cjs": "^1.2.0",
     "lint-staged": "^15.2.0",
     "pkg-name": "link:",
-    "prettier": "^3.1.0",
+    "prettier": "^3.1.1",
     "simple-git-hooks": "^2.9.0",
     "tsup": "^8.0.1",
     "typescript": "^5.3.3",
-    "vitest": "^1.0.3"
+    "vitest": "^1.0.4"
   },
   "packageManager": "pnpm@8.12.0",
   "publishConfig": {
