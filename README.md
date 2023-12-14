@@ -2,6 +2,7 @@
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
+[![codecov][codecov-src]][codecov-href]
 [![bundle][bundle-src]][bundle-href]
 [![JSDocs][jsdocs-src]][jsdocs-href]
 [![License][license-src]][license-href]
@@ -52,6 +53,8 @@ pnpm add pkg-placeholder
 [npm-version-href]: https://npmjs.com/package/pkg-placeholder
 [npm-downloads-src]: https://img.shields.io/npm/dm/pkg-placeholder
 [npm-downloads-href]: https://npmjs.com/package/pkg-placeholder
+[codecov-src]: https://codecov.io/gh/u3u/pkg-placeholder/graph/badge.svg
+[codecov-href]: https://codecov.io/gh/u3u/pkg-placeholder
 [bundle-src]: https://img.shields.io/bundlephobia/minzip/pkg-placeholder?label=minzip
 [bundle-href]: https://bundlephobia.com/result?p=pkg-placeholder
 [jsdocs-src]: https://paka.dev/badges/v0/cute.svg
