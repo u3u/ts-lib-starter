@@ -1,10 +1,10 @@
 {
-  "name": "pkg-name",
+  "name": "pkg-placeholder",
   "version": "0.0.0",
   "description": "",
   "keywords": [],
   "repository": {
-    "url": "https://github.com/u3u/pkg-name.git"
+    "url": "https://github.com/u3u/pkg-placeholder.git"
   },
   "license": "MIT",
   "author": "u3u <qwq@qwq.cat> (https://github.com/u3u)",
@@ -76,7 +76,7 @@
     "eslint": "^8.55.0",
     "fix-tsup-cjs": "^1.2.0",
     "lint-staged": "^15.2.0",
-    "pkg-name": "link:",
+    "pkg-placeholder": "link:",
     "prettier": "^3.1.1",
     "simple-git-hooks": "^2.9.0",
     "tsup": "^8.0.1",

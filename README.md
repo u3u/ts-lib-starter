@@ -1,10 +1,14 @@
-# pkg-name
+# pkg-placeholder
 
-[![npm version](https://badgen.net/npm/v/pkg-name)](https://npm.im/pkg-name) [![npm downloads](https://badgen.net/npm/dm/pkg-name)](https://npm.im/pkg-name) [![codecov](https://codecov.io/gh/u3u/pkg-name/graph/badge.svg)](https://codecov.io/gh/u3u/pkg-name)
+[![npm version][npm-version-src]][npm-version-href]
+[![npm downloads][npm-downloads-src]][npm-downloads-href]
+[![bundle][bundle-src]][bundle-href]
+[![JSDocs][jsdocs-src]][jsdocs-href]
+[![License][license-src]][license-href]
 
 ## Using this template
 
-- Search `pkg-name` and replace it with your custom package name.
+- Search `pkg-placeholder` and replace it with your custom package name.
 - Search `u3u` and replace it with your name.
 
 ### Features
@@ -35,9 +39,22 @@ Modify the `build` script in `package.json` and use [fix-tsup-cjs](https://githu
 ## Install
 
 ```sh
-pnpm add pkg-name
+pnpm add pkg-placeholder
 ```
 
 ## License
 
 [MIT](./LICENSE) License © 2023 [u3u](https://github.com/u3u)
+
+<!-- Badges -->
+
+[npm-version-src]: https://img.shields.io/npm/v/pkg-placeholder
+[npm-version-href]: https://npmjs.com/package/pkg-placeholder
+[npm-downloads-src]: https://img.shields.io/npm/dm/pkg-placeholder
+[npm-downloads-href]: https://npmjs.com/package/pkg-placeholder
+[bundle-src]: https://img.shields.io/bundlephobia/minzip/pkg-placeholder?label=minzip
+[bundle-href]: https://bundlephobia.com/result?p=pkg-placeholder
+[jsdocs-src]: https://paka.dev/badges/v0/cute.svg
+[jsdocs-href]: https://paka.dev/npm/pkg-placeholder
+[license-src]: https://img.shields.io/github/license/u3u/pkg-placeholder.svg
+[license-href]: ./LICENSE
