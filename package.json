@@ -70,8 +70,8 @@
     "@types/node": "^20.12.8",
     "@u3u/eslint-config": "^2.15.1",
     "@u3u/prettier-config": "^4.5.1",
-    "@vitest/coverage-v8": "^1.5.3",
-    "@vitest/ui": "^1.5.3",
+    "@vitest/coverage-v8": "^1.6.0",
+    "@vitest/ui": "^1.6.0",
     "bumpp": "^9.4.1",
     "dedent": "^1.5.3",
     "eslint": "^8.57.0",
@@ -82,7 +82,7 @@
     "simple-git-hooks": "^2.11.1",
     "tsup": "^8.0.2",
     "typescript": "^5.4.5",
-    "vitest": "^1.5.3"
+    "vitest": "^1.6.0"
   },
   "packageManager": "pnpm@8.15.8",
   "publishConfig": {
