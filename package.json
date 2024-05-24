@@ -76,7 +76,7 @@
     "dedent": "^1.5.3",
     "eslint": "^8.57.0",
     "fix-tsup-cjs": "^1.2.0",
-    "lint-staged": "^15.2.2",
+    "lint-staged": "^15.2.4",
     "pkg-placeholder": "link:",
     "prettier": "^3.2.5",
     "simple-git-hooks": "^2.11.1",
