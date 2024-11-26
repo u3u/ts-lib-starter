@@ -67,22 +67,22 @@
   "devDependencies": {
     "@total-typescript/ts-reset": "^0.6.1",
     "@tsconfig/node20": "^20.1.4",
-    "@types/node": "^20.17.7",
+    "@types/node": "^20.17.8",
     "@u3u/eslint-config": "^2.15.2",
     "@u3u/prettier-config": "^5.1.0",
-    "@vitest/coverage-v8": "^2.1.5",
-    "@vitest/ui": "^2.1.5",
+    "@vitest/coverage-v8": "^2.1.6",
+    "@vitest/ui": "^2.1.6",
     "bumpp": "^9.8.1",
     "dedent": "^1.5.3",
     "eslint": "^8.57.0",
     "fix-tsup-cjs": "^1.2.0",
     "lint-staged": "^15.2.10",
     "pkg-placeholder": "link:",
-    "prettier": "^3.3.3",
+    "prettier": "^3.4.1",
     "simple-git-hooks": "^2.11.1",
     "tsup": "^8.3.5",
     "typescript": "^5.7.2",
-    "vitest": "^2.1.5"
+    "vitest": "^2.1.6"
   },
   "packageManager": "pnpm@9.14.2",
   "publishConfig": {
