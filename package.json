@@ -78,7 +78,7 @@
     "fix-tsup-cjs": "^1.2.0",
     "lint-staged": "^15.2.10",
     "pkg-placeholder": "link:",
-    "prettier": "^3.4.1",
+    "prettier": "^3.4.2",
     "simple-git-hooks": "^2.11.1",
     "tsup": "^8.3.5",
     "typescript": "^5.7.2",
