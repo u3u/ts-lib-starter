@@ -80,7 +80,7 @@
     "pkg-placeholder": "link:",
     "prettier": "^3.5.2",
     "simple-git-hooks": "^2.11.1",
-    "tsup": "^8.3.6",
+    "tsup": "^8.4.0",
     "typescript": "^5.7.3",
     "vitest": "^2.1.9"
   },
